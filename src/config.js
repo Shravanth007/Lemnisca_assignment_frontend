@@ -1,4 +1,4 @@
-export const API_BASE_URL = 'http://127.0.0.1:8000';
+export const API_BASE_URL = 'https://shravanth007-lemnisca-assignment-ba.vercel.app';
 
 export const STORAGE_KEYS = {
   MESSAGES: 'chatMessages',
